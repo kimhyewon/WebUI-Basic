@@ -1,0 +1,219 @@
+a { text-decoration:none }
+ 
+#container {
+  1color : red;
+  border : 1px solid gray;
+  width : 1280px;
+  height : 20000px;
+  margin: 0
+  padding : 0
+  position : relative;
+  top : 0px;
+  left : 0px;
+}
+#header{
+  background-color: #f1f1f1;
+  border : 1px solid gray;
+  width : 1280px;
+  height : 60px;
+  position : relative;
+  top : 0px;
+  left : 0px;
+}
+#search_bar > input{
+  position : absolute;
+  top : 13px;
+  left : 250px;
+  width :589px;
+  height : 24px;
+ 
+}
+#search_botton{
+  position : absolute;
+  top: -11px;
+  left: 824px;
+  padding: 20px;
+}
+#app_botton{
+  position : absolute;
+  top : 0px;
+  right : 100px
+}
+#login{
+  position : absolute;
+  top : 0px;
+  right : 0px;
+}
+ 
+#leftcol{
+  background-color: #f1f1f1;
+  border : 1px solid gray;
+  width : 200px;
+  height : 240px;
+  position : relative;
+  top : 0x;
+  left : 0px;
+}
+#book_link{
+  background-color : #1aa1e1;  
+  width : 200px;
+  height : 48px;
+  position : relative;
+  top : 0px;
+  left : 0px;
+  
+}
+ 
+#left{
+  position : absolute;
+  top : 48px; 
+}
+#menu_list > li:nth-child(1){
+  position : absolute;
+  top : 48px; 
+  margin-top:20px;  
+  margin-left: 48px;
+  span{color : black;}
+}
+#menu_list > li:nth-child(2){
+  position : absolute;
+  top : 78px; 
+  margin-top:20px;  
+  margin-left: 48px;
+}
+ 
+#menu_list > li:nth-child(2) > a{
+  color : #1380b5;
+}
+ 
+#upper_list{
+  1background-color : #fff;
+  border : 1px solid gray;
+  width : 1280px;
+  height : 48px;
+  position : relative;
+  top : -243px;
+  left : 0px;  
+}
+ 
+#setting_botton{
+  float: right;
+  margin: 6.3px 40px;
+}
+#help_botton{
+  float: right;
+  margin: 7px -25px;
+}
+ 
+ 
+#action_bar_dropdown_container{
+  position : absolute;
+  padding-left: 240px;
+  padding-top: 14px;
+}
+#action_bar_dropdown_container{
+  color : #737373;
+}
+#action_bar_botton{
+  position : absolute;
+  padding-left: 275px;
+  padding-top: 1px;
+}
+#action_bar_list > ul > li:nth-child(1){
+  position : absolute;
+  padding-left: 330px;
+  padding-top: 14px;
+}
+#action_bar_list > ul> li:nth-child(2){
+  position : absolute;
+  padding-left: 370px;
+  padding-top: 14px;
+}
+#action_bar_list > ul > li:nth-child(3){
+  position : absolute;
+  padding-left: 470px;
+  padding-top: 14px;
+}
+#action_bar_list > ul > li{
+  color : #737373;
+}
+ 
+ 
+#section{
+  1background-color : #e5e5e5;
+  border : 1px solid gray;
+  width : 1280px;
+  height : 3606px;
+  position : relative;
+  top : -244px;
+  left : 0px;
+}
+#section1{
+  position : absolute;
+  padding-top: 40px;
+  padding-left:248px;
+  height : 343px;
+}
+ 
+#section1_title{
+  color: black
+}
+
+#see_more{
+  padding-right : 20px;
+}
+ 
+#a1_1, #a1_2, #a1_3, #a1_4, #a1_5, #a1_6{
+  float : left;
+}
+#a1_1, #a1_2, #a1_3, #a1_4, #a1_5, #a1_6{
+  margin-left : 2px;
+}
+ 
+ 
+#section2{
+  position : absolute;
+  padding-top: 383px;
+  padding-left:248px;
+  height : 343px;
+}
+#a2_1, #a2_2, #a2_3, #a2_4, #a2_5, #a2_6{
+  float : left;
+}
+#a2_1, #a2_2, #a2_3, #a2_4, #a2_5, #a2_6{
+  margin-left : 2px;
+}
+
+#section3{
+  position : absolute;
+  padding-top: 762px;
+  padding-left:248px;
+  height : 343px;
+}
+#a3_1, #a3_2, #a3_3{
+  float : left;
+s#a3_1, #a3_2, #a3_3{
+  margin-left : 2px;
+} 
+ 
+ 
+#footer{
+  background-color : blue;
+  border : 1px solid gray;
+  width : 1280px;
+  height : 158px;
+  position : relative;
+  top : 3606;
+  left : 0;
+}
+#google {
+  float : left;
+}
+#footer_link_container > ul > li {
+  float : left;
+  margin-left : 10px;
+}
+ul {
+    list-style: none;
+    margin:0px; padding:0px;
+}
